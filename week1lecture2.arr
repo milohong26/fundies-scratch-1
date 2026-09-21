@@ -40,4 +40,4 @@ above(x, y)
 below(x, y)
 beside(y, x)
 
-u = triangle(
+u = overlay(rotate(180, z))
